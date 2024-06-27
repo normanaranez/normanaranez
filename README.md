@@ -1,6 +1,4 @@
-# Norman Aranez's Developer Profile
-
-Welcome to my GitHub profile! I'm Norman Aranez, a passionate and skilled developer specializing in modern web technologies. With a strong foundation in both front-end and back-end development, I am dedicated to building efficient, scalable, and user-friendly applications.
+#Welcome to my GitHub profile! I'm Norman Aranez, a passionate and skilled developer specializing in modern web technologies. With a strong foundation in both front-end and back-end development, I am dedicated to building efficient, scalable, and user-friendly applications.
 
 ## 🛠 Skills
 

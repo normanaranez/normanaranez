@@ -17,6 +17,9 @@ Below is a list of my core competencies and technologies I use:
 - **Apollo GraphQL**: Experienced in integrating Apollo GraphQL into applications for managing data with GraphQL effectively.
 - **Databases**: Proficient in database management and development with MongoDB, MySQL, and PostgreSQL.
 - **Python**: Experienced in Python for scripting, data analysis, and backend development.
+- **Laravel**: Skilled in using Laravel for building robust and secure PHP-based web applications.
+- **Vue.js**: Proficient in developing interactive and modern web interfaces with Vue.js.
+
 
 ## 📈 Projects
 

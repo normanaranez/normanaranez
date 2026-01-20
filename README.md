@@ -1,34 +1,41 @@
-## Welcome to my GitHub profile! I'm Norman Aranez, 
-a passionate and skilled developer specializing in modern web technologies. With a strong foundation in both front-end and back-end development, I am dedicated to building efficient, scalable, and user-friendly applications.
+## Full-Stack Developer | TypeScript, Node.js, Go, Python, React
 
-## 🛠 Skills
+I build **clean, scalable, and production-ready web applications** with a strong focus on performance, maintainability, and real business needs.
 
-Below is a list of my core competencies and technologies I use:
+---
 
-- **MERN Stack**
-- **React**
-- **TypeScript**
-- **GraphQL**
-- **Node.js**
-- **Bun**
-- **Hono**
-- **Express.js**
-- **Apollo GraphQL**
-- **Databases**
-- **Python**
-- **Laravel**
-- **Vue.js**
+## 🛠 Core Skills
 
+**Backend**
+- Node.js (Express, Hono, NestJS)
+- Go
+- Python
 
-## 📈 Projects
+**Frontend**
+- React
+- TypeScript
 
-(Here, you can add a list of projects you've worked on, providing a brief description and possibly links to live sites or code repositories.)
+**APIs**
+- RESTful API design & integration
 
-## 📫 How to Reach Me
+**Architecture**
+- Modular, scalable, and upgrade-safe codebases
 
-Feel free to connect with me for any interesting project ideas or collaboration opportunities.
+---
 
-- Email: araneznorman12@gmail.com
-- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/norman-ara%C3%B1ez-71766b137/)
+## 🚀 What I Do Best
+- Build **high-performance backend APIs** using Express, Hono, or NestJS
+- Develop **modern React frontends** with TypeScript
+- Design **scalable systems** that are easy to maintain and extend
+- Write **clean, readable, and well-structured code**
 
-Thank you for visiting my profile. Let's build something amazing together!
+---
+
+## 🤝 Why Clients Hire Me
+- **Straight to the point:** I focus on solving the problem, not overengineering
+- **Clean code:** Easy to maintain, test, and scale
+- **Reliable communication:** Clear updates and realistic timelines
+
+---
+
+📫 If you need a developer who can **build fast, think long-term, and deliver clean results**, let’s talk.

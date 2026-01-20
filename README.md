@@ -19,7 +19,10 @@ I build **clean, scalable, and production-ready web applications** with a strong
 - RESTful API design & integration
 
 **Architecture**
-- Modular, scalable, and upgrade-safe codebases
+- Modular, scalable, and upgrade-safe codebases  
+- Clean Architecture with clear separation of concerns  
+- Microservice-based systems with well-defined boundaries  
+- Best practices for error handling, validation, and logging
 
 ---
 

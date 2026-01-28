@@ -1,13 +1,18 @@
-## Full-Stack Developer | TypeScript, Node.js, Go, Python, React
+## Full-Stack Developer | TypeScript, Node.js, Go, Python, React | Database-First Design
 
-I build **clean, scalable, and production-ready web applications** with a strong focus on performance, maintainability, and real business needs.
+I build **clean, scalable, and production-ready web applications with a database-first approach**, ensuring your system’s foundation is robust, efficient, and future-proof.
 
 ---
 
 ## 🛠 Core Skills
 
+**Database**
+- MSSQL, MariaDB, MySQL, & PostgreSQL
+- **Database-first development**: designing schemas, writing **functions, stored procedures, triggers, and views** to power business logic
+- Query optimization, indexing, and performance tuning
+
 **Backend**
-- Node.js (Express, Hono, NestJS)
+- Node.js (Express, Hono, NestJS, Typescript)
 - Go
 - Python
 
@@ -27,18 +32,20 @@ I build **clean, scalable, and production-ready web applications** with a strong
 ---
 
 ## 🚀 What I Do Best
-- Build **high-performance backend APIs** using Express, Hono, or NestJS
-- Develop **modern React frontends** with TypeScript
-- Design **scalable systems** that are easy to maintain and extend
-- Write **clean, readable, and well-structured code**
+- Build **high-performance backend APIs** driven by **well-structured database design**
+- Develop **modern React frontends** integrated with database-first backends
+- Design **scalable systems** that leverage the database as the source of truth
+- Implement **advanced SQL features** to encapsulate business logic at the database layer
+- Write **clean, maintainable code** that scales with your business
 
 ---
 
 ## 🤝 Why Clients Hire Me
-- **Straight to the point:** I focus on solving the problem, not overengineering
-- **Clean code:** Easy to maintain, test, and scale
-- **Reliable communication:** Clear updates and realistic timelines
+- **Database-first mindset** — your data drives the system, not the other way around
+- **Problem-focused** — solutions that work and scale without unnecessary complexity
+- **Clean, maintainable code** — easy to extend and test
+- **Reliable communication** — clear updates and realistic timelines
 
 ---
 
-📫 If you need a developer who can **build fast, think long-term, and deliver clean results**, let’s talk.
+📫 If you need a developer who can think in **data first, build efficiently, and deliver clean, scalable results**, let’s talk.
